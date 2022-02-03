@@ -8,7 +8,7 @@ I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
 
 ## **`Toolbox 🛠`**
 
-- Env : `GulpJS`, `Twig`, `Sass`
+- Env : `GulpJS``Twig`, `Sass`
 - Javascript : `VanillaJS`, `JQuery`
 - Libraries : `Bootstrap`
 - Versioning : `Git`, `Github`
