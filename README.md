@@ -1,19 +1,19 @@
 # **`Hi! I'm Thomas 👨🏻‍💻`**
 
-> I'm a Web Integrator.
-> 
-> I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
+I'm a Web Integrator.
 
-Meet me on Malt : https://www.malt.fr/profile/thomasbarnabe
+I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
+
+> Meet me on Malt : https://www.malt.fr/profile/thomasbarnabe
 
 ## **`Toolbox 🛠`**
 
-- HTML : Twig
-- CSS : Sass
-- Javascript : Vanilla, JQuery
-- Libraries : Bootstrap
-- Versioning : Git, Github
-- Tools : BrowserStack, SourceTree, Zeplin, Figma
+> HTML : Twig
+> CSS : Sass
+> Javascript : Vanilla, JQuery
+> Libraries : Bootstrap
+> Versioning : Git, Github
+> Tools : BrowserStack, SourceTree, Zeplin, Figma
 
 ## **`Let's Connect 🔗`**
 
