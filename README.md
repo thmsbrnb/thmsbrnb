@@ -8,7 +8,7 @@ I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
 
 ## **`Toolbox 🛠`**
 
-- HTML : Twig
+- **HTML** : Twig
 - CSS : Sass
 - Javascript : Vanilla, JQuery
 - Libraries : Bootstrap
