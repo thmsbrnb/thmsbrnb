@@ -4,10 +4,12 @@ I'm a Web Integrator.
 
 I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
 
+Meet me on Malt : https://www.malt.fr/profile/thomasbarnabe
+
 ## **`Toolbox 🛠`**
 
-- HTML: Twig
-- CSS: Sass
+- HTML : Twig
+- CSS : Sass
 - Javascript : JQuery
 - Libraries : Bootstrap
 - Versioning : Git/ Github
