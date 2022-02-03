@@ -1,8 +1,8 @@
 # **`Hi! I'm Thomas 👨🏻‍💻`**
 
->> I'm a Web Integrator.
+> I'm a Web Integrator.
 
->> I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
+I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
 
 Meet me on Malt : https://www.malt.fr/profile/thomasbarnabe
 
