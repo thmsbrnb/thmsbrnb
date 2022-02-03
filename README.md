@@ -8,12 +8,12 @@ I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
 
 ## **`Toolbox 🛠`**
 
-- **HTML** : `'Twig'`
-- **CSS** : Sass
-- **Javascript** : Vanilla, JQuery
-- **Libraries** : Bootstrap
-- **Versioning** : Git, Github
-- **More** : BrowserStack, SourceTree, Zeplin, Figma
+- HTML : `Twig`
+- CSS : `Sass`
+- Javascript : `VanillaJS`, `JQuery`
+- Libraries : `Bootstrap`
+- Versioning : `Git`, `Github`
+- More : `BrowserStack`, `SourceTree`, `Zeplin`, `Figma`, `Jira`, `Confluence`
 
 ## **`Let's Connect 🔗`**
 
