@@ -12,7 +12,7 @@ Meet me on Malt : https://www.malt.fr/profile/thomasbarnabe
 - CSS : Sass
 - Javascript : Vanilla, JQuery
 - Libraries : Bootstrap
-- Versioning : Git/ Github
+- Versioning : Git, Github
 - Tools : BrowserStack, SourceTree, Zeplin, Figma
 
 ## **`Let's Connect 🔗`**
