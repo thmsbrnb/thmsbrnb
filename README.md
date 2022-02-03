@@ -4,7 +4,7 @@ I'm a Web Integrator.
 
 I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
 
-## **`Skills ⚙️`**
+## **`Toolbox 🛠`**
 
 - HTML: Twig
 - CSS: Sass
