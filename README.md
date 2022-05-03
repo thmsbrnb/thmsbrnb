@@ -8,11 +8,11 @@ I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
 
 ## **`Toolbox 🛠`**
 
-`GulpJS` `Twig` `Sass`
-`ES6` `JQuery`
-`Bootstrap`
-`Git` `Github`
-`BrowserStack` `SourceTree` `Zeplin` `Figma` `Jira` `Confluence`
+`GulpJS` `Twig` `Sass`  
+`ES6` `JQuery`  
+`Bootstrap`  
+`Git` `Github`  
+`BrowserStack` `SourceTree` `Zeplin` `Figma` `Jira` `Confluence`   
 
 ## **`Let's Connect 🔗`**
 
