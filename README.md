@@ -1,16 +1,14 @@
 # **`Hi! I'm Thomas 👨🏻‍💻`**
 
-I'm a Web Integrator.
-
-I love bringing web apps to life using GulpJS, Twig & Sass. 🌱
+I specialise in programming user interfaces.
 
 ## **`Toolbox 🛠`**
 
-`GulpJS` `Twig` `Sass`  
-`ES6` `JQuery`  
-`Bootstrap`  
+`PHP` `HTML5` `CSS3`
+`GulpJS` `Twig` `Sass` `Less`
+`Javascript` `JQuery`
 `Git` `Github`  
-`BrowserStack` `SourceTree` `Zeplin` `Figma` `Jira` `Confluence`   
+`BrowserStack` `Figma` `Jira` `Confluence`   
 
 ## **`Let's Connect 🔗`**
 
